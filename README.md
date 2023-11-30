@@ -1,10 +1,30 @@
 # this is the wurzelradar app
 
-- clone the repository
-- open folder in visual studio code
-- open new terminal window
-- run yarn (you need to have yarn installed)
-- run yarn expo start
+Prerequisites:
+Install Visual Studio Code
+Install nodejs
+Install npm
+Optional: 
+Install Android Studio
+Install Android Emulator
 
-The app is now running in debug mode
-either use expo app or android emulator to run the app
+How to run the app:
+
+## Get source code
+
+- create a local folder on your disc
+- open command prompt and change directory to newly created folder
+- run "git clone https://github.com/mbre777/wurzelradar-app.git ." in folder
+
+## Run visual studio code
+
+- open visual studio code
+- open folder in visual studio code
+- open a new terminal (terminal - new terminal)
+- run "npm install"
+- run "npx expo"
+
+## Run the app
+
+- Select "a" to open in Android Emulator (needs to be running)
+- or Scan QR Code and run directly on the mobile phone
