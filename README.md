@@ -4,6 +4,7 @@ Prerequisites:
 Install Visual Studio Code
 Install nodejs
 Install npm
+Install GIT
 Optional: 
 Install Android Studio
 Install Android Emulator
