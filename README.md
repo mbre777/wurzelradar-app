@@ -29,3 +29,7 @@ How to run the app:
 
 - Select "a" to open in Android Emulator (needs to be running)
 - or Scan QR Code and run directly on the mobile phone
+
+
+# Abfrage für GEO Trees
+# https://firebase.google.com/docs/firestore/solutions/geoqueries?hl=de

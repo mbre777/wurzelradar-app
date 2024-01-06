@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "WurzelradarApp",
-    "slug": "WurzelradarApp",
+    "slug": "wurzelradarapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -10,6 +10,11 @@
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3574a44f-403f-4491-9650-1a5be76d1890"
+      }
     },
     "assetBundlePatterns": [
       "**/*"
@@ -21,6 +26,7 @@
       }
     },
     "android": {
+      "package": "com.wurzelradarapp.fernfh",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
